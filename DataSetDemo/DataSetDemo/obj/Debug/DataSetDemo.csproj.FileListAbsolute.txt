@@ -1,0 +1,10 @@
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.exe.config
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.exe
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\bin\Debug\DataSetDemo.pdb
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csprojAssemblyReference.cache
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.Form1.resources
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.Properties.Resources.resources
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csproj.GenerateResource.cache
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.exe
+C:\Users\Cyber\source\repos\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.pdb
